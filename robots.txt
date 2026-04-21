@@ -7,4 +7,4 @@ Allow: /
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://rmatthew-afk.github.io/perumalkalarikals-family/sitemap.xml

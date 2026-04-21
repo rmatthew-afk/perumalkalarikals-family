@@ -10,7 +10,7 @@ This folder contains a simple public webpage for the family statement:
 
 ## Important Before Publishing
 
-Replace every `https://example.com/` reference in:
+Replace every placeholder URL reference in:
 
 - `index.html`
 - `robots.txt`
